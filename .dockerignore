@@ -1,0 +1,7 @@
+# Ignore node_modules and build artifacts
+node_modules/
+build/
+dist/
+
+# Ignore any other files or directories you don't want to include in the Docker image
+# Add more patterns as needed
